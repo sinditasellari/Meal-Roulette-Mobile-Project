@@ -1,4 +1,4 @@
-A simple Expo app
+An Expo app
 
 ## Tech Stack
 
